@@ -1,4 +1,5 @@
 # Theme configuration
+# Change the colors as per your preference
 THEME = {
     "bg_color": "#2C3E50",
     "frame_color": "#34495E",
