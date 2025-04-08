@@ -79,10 +79,10 @@ pip install -r requirements.txt
  - Create a MySQL user with appropriate privileges
  - Edit config.ini:
     [DATABASE]
-    host = localhost
+    host = your_host
     user = your_username
     password = your_password
-    database = uobs
+    database = your_database
 
 # Usage
     python main.py
