@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Configuration for virtual environments
+.env
+venv/
+.venv/
+config.ini
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log or debug files (if any in future)
+*.log
+
+# Python egg info (if packaging later)
+*.egg-info/
