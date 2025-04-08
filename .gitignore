@@ -6,7 +6,7 @@ __pycache__/
 .env
 venv/
 .venv/
-.ini
+config.ini
 
 # IDE/editor-specific files
 .vscode/
